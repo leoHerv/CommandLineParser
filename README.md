@@ -1,5 +1,3 @@
-By HERVOUET Léo
-
 # === PROJECT ===
 
 The project was made with CLION and the WSL (Windows Subsystem for Linux).
